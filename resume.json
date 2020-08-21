@@ -1,0 +1,254 @@
+{
+  "basics": {
+    "name": "Milad Nekofar",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "milad@nekofar.com",
+    "phone": "+98 913 594 1004",
+    "website": "https://milad.nekofar.com",
+    "summary": "I'm a self-taught Software Developer. I have around two decades of experience in the software industry. At the moment, I work on software development projects as a freelancer.\n\nI enjoy learning and experiment with new things and self-studies, especially if related to new technologies and software development. I have worked with different platforms, mostly in the field of mobile and web development.\n\nSometimes I give consultation to the startups or cooperate with them. In recent past years, I dedicated part of my life to help the growth of entrepreneurship and startups ecosystem in my city. I like to work with professionals and learn from them.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Esfahan",
+      "countryCode": "IR",
+      "region": "Isfahan"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "nekofar",
+        "url": "https://github.com/nekofar"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "nekofar",
+        "url": "https://linkedin.com/in/nekofar"
+      }
+    ],
+    "industry": "Computer Software"
+  },
+  "work": [
+    {
+      "position": "Junior Software Developer",
+      "website": "https://milad.nekofar.com",
+      "startDate": "2002-01-01",
+      "endDate": "2004-01-01",
+      "summary": "It's been years past since I started coding. I've started with web development when I was younger as a hobby and then as a part-time freelance job.",
+      "highlights": [],
+      "location": "Remote",
+      "employment": "Freelance"
+    },
+    {
+      "position": "Medior Software Developer",
+      "website": "https://milad.nekofar.com",
+      "startDate": "2004-01-01",
+      "endDate": "2007-05-01",
+      "highlights": [],
+      "location": "Remote",
+      "employment": "Freelance"
+    },
+    {
+      "company": "Movable Host",
+      "position": "Owner / Managing Director",
+      "website": "https://movablehost.net",
+      "startDate": "2005-12-01",
+      "endDate": "2013-10-01",
+      "summary": "Provide and manage dedicated servers, virtual servers and hosted services. Setup and secure dedicated and virtual servers.",
+      "highlights": [],
+      "employment": "Part-time"
+    },
+    {
+      "company": "Papata Game Studio",
+      "position": "Senior Software Developer",
+      "website": "http://papatalab.ir",
+      "startDate": "2013-12-01",
+      "endDate": "2014-06-01",
+      "summary": "It was a good experience. I did work with some of young and motivated peoples who had a dream to create their own game development studio. I mostly cooperate in development of apps and games and also their online backends.",
+      "highlights": [],
+      "employment": "Contract"
+    },
+    {
+      "company": "MyFlashLabs",
+      "position": "Senior Software Developer",
+      "website": "https://myflashlabs.com",
+      "startDate": "2019-11-01",
+      "endDate": null,
+      "summary": "Develop and maintain Adobe AIR Native Extensions for use with iOS and Android mobile platforms.",
+      "highlights": [],
+      "location": "Remote",
+      "employment": "Contract"
+    },
+    {
+      "position": "Senior Software Developer",
+      "website": "https://milad.nekofar.com",
+      "startDate": "2007-05-01",
+      "endDate": null,
+      "summary": "Finally, I decide to switch to fulltime, most of the time as a freelancer and sometimes as a contractor in the field of Web development, mostly backend and PHP. \nIn recent past years, I learned other technologies and started to work on application development for mobile, first Android, and then iOS either.",
+      "highlights": [],
+      "location": "Remote",
+      "employment": "Freelance"
+    },
+    {
+      "company": "Abasmanesh Research Group",
+      "position": "Lead Software Developer",
+      "website": "https://abasmanesh.com:",
+      "startDate": "2014-11-01",
+      "endDate": "2018-11-01",
+      "summary": "It was a good experience for me to have more communication with the end users in this job. I work mostly from remote on the website and their mobile applications projects as an independent contractor.",
+      "highlights": [],
+      "location": "Remote",
+      "employment": "Contract"
+    },
+    {
+      "company": "Farayaz",
+      "position": "Senior Software Developer",
+      "website": "https://farayaz.com",
+      "startDate": "2010-05-01",
+      "endDate": "2014-03-01",
+      "summary": "It was my first experience to work directly for a company. I was working as a contractor. \nIt took years, but finally, I realize I'm not that kind of person who can work in fixed work schedules. \nMy job was analysis projects, programming on web development projects, maintaining servers and training of new recruits in the last years.",
+      "highlights": [],
+      "employment": "Contract"
+    },
+    {
+      "company": "Bugloos",
+      "position": "Senior Softwar Developer",
+      "website": "http://www.bugloos.nl",
+      "startDate": "2014-10-01",
+      "endDate": "2014-11-01",
+      "summary": "It was for short period of time, I just worked as a freelancer on couple of their projects. They asked me for a full-time position, but at the time, I was reluctant to do so.",
+      "highlights": [],
+      "location": "Remote",
+      "employment": "Freelance"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Startup Weekend Tourism",
+      "position": "Event Organizer",
+      "website": "",
+      "startDate": "2015-11-01",
+      "endDate": "2015-11-01",
+      "summary": "Organize and formation of Startup Weekend Tourism in Esfahan.",
+      "highlights": [],
+      "cause": "Education"
+    },
+    {
+      "organization": "Startup Weekend Isfahan",
+      "position": "Event Organizer",
+      "website": "",
+      "startDate": "2013-11-01",
+      "endDate": "2013-11-01",
+      "summary": "Assist in executive affairs.",
+      "highlights": [],
+      "cause": "Education"
+    },
+    {
+      "organization": "Hive Web Magazine",
+      "position": "Technical Author",
+      "website": "",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Writing weekly about technologies and software development especially mobile development in Persian.\n",
+      "highlights": [],
+      "cause": "Education"
+    },
+    {
+      "organization": "Hamnet",
+      "position": "Workshop Facilitator",
+      "website": "",
+      "startDate": "2015-09-01",
+      "endDate": "2015-09-01",
+      "summary": "Help teams for work on their Business Model Canvas and Technical issues.",
+      "highlights": [],
+      "cause": "Education"
+    },
+    {
+      "organization": "Hamfekr",
+      "position": "Event Organizer",
+      "website": "",
+      "startDate": "2014-12-01",
+      "endDate": "2015-03-01",
+      "summary": "Help and support on organize and formation of Hamfekr meetings in Esfahan.",
+      "highlights": [],
+      "cause": "Education"
+    },
+    {
+      "organization": "Hamfekr",
+      "position": "Community Organizer",
+      "website": "",
+      "startDate": "2015-06-01",
+      "endDate": "2018-01-01",
+      "summary": "Organize and formation of Hamfekr meetings in Esfahan.",
+      "highlights": [],
+      "cause": "Education"
+    },
+    {
+      "organization": "Startup Spark",
+      "position": "Event Organizer",
+      "website": "",
+      "startDate": "2015-07-01",
+      "endDate": "2015-08-01",
+      "summary": "Organize and formation of Startup Spark meetings in Esfahan.",
+      "highlights": [],
+      "cause": "EDUCATION"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Harati High School",
+      "area": "Mathematics and Physics",
+      "studyType": "Diploma",
+      "startDate": "2003-01-01",
+      "endDate": "2004-01-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Mobile Applications",
+      "level": "Competent",
+      "keywords": ["Java", "Objective-C", "Swift", "Kotlin"]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Expert",
+      "keywords": ["MySQL", "PHP", "Python", "Ruby", "MongoDB"]
+    },
+    {
+      "name": "Project Management",
+      "level": "Competent",
+      "keywords": ["Scrum", "Kanban"]
+    },
+    {
+      "name": "Server Administration",
+      "level": "Competent",
+      "keywords": ["Linux", "Docker", "Cpanel", "DirectAdmin"]
+    },
+    {
+      "name": "Game Development",
+      "level": "Novice",
+      "keywords": ["Unity", "Godot", "C#"]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Competent",
+      "keywords": ["JavaScript", "CSS", "HTML"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working"
+    }
+  ],
+  "interests": [],
+  "references": []
+}

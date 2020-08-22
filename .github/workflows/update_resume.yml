@@ -40,9 +40,9 @@ jobs:
       run: |
         pushd /tmp
         sudo apt update
-        sudo apt install wget xfonts-75dpi
+        sudo apt -y install wget
         wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
-        sudo dpkg -i wkhtmltox_0.12.6-1.focal_amd64.deb
+        sudo apt -y install ./wkhtmltox_0.12.6-1.focal_amd64.deb
         sudo apt -f install
         wkhtmltopdf --version
         wkhtmltoimage --version

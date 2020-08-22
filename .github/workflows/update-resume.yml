@@ -54,12 +54,12 @@ jobs:
     # Generate resume formats using HackMyResume
     - name: Generate resume formats
       run: |
-        hackmyresume build resume.json TO README.md resume.html resume.pdf resume.png -t compact
+        hackmyresume build resume.json TO README.md resume.doc resume.html resume.pdf resume.png -o .hackmyrc
         
     # Add & Commit resume changes
-    - name: Add & Commit
+    - name: Add & Commit resume changes
       uses: EndBug/add-and-commit@v4.4.0
       with:
-        add: README.md resume.html resume.pdf resume.png
+        add: README.md  resume.doc resume.html resume.pdf resume.png
         message: Update resume files
 

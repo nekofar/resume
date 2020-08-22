@@ -19,7 +19,7 @@ Sometimes I give consultation to the startups or cooperate with them.
   - Game Development: Unity Godot C# 
   - Frontend Development: JavaScript CSS HTML 
 
-## EMPLOYMENT
+## Experiance
 
 ### *Senior Software Developer*, [MyFlashLabs](https://myflashlabs.com) (2019-11 — Present)
 
@@ -80,7 +80,7 @@ I started programming with Perl and PHP. Those years were the weblogs hype, and 
 
 
 
-## SERVICE
+## Voluntarily
 
 ### *Event Organizer*, Startup Weekend Tourism (2015-11)
 

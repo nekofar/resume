@@ -47,6 +47,9 @@ jobs:
       run: |
         brew tap colindean/fonts-nonfree
         brew cask install font-microsoft-office
+        sudo atsutil databases -remove
+        atsutil server -shutdown
+        atsutil server -ping
   
     # Generate resume formats using HackMyResume
     - name: Generate resume formats

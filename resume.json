@@ -88,9 +88,7 @@
         "start": "2014-10-01",
         "end": "2014-11-01",
         "url": "http://www.bugloos.nl",
-        "keywords": [
-          "PHP", "Zend","jQuery"
-        ],
+        "keywords": ["PHP", "Zend", "jQuery"],
         "highlights": [],
         "location": "Remote"
       },
@@ -101,9 +99,7 @@
         "start": "2013-12-01",
         "end": "2014-06-01",
         "url": "http://papatalab.ir",
-        "keywords": [
-          "Java","Android", "Phalcon","Unity", "GitLab"
-        ],
+        "keywords": ["Java", "Android", "Phalcon", "Unity", "GitLab"],
         "highlights": [
           "Collaborate on the development of two high-quality mobile games, alongside a team of motivated youth developers."
         ],
@@ -116,9 +112,7 @@
         "start": "2010-05-01",
         "end": "2014-03-01",
         "url": "https://farayaz.com",
-        "keywords": [
-          "PHP", "Farasaz"
-        ],
+        "keywords": ["PHP", "Farasaz"],
         "highlights": [
           "Develop and maintain hundreds of websites based on custom cms."
         ],
@@ -132,10 +126,21 @@
         "end": null,
         "url": "https://milad.nekofar.com",
         "keywords": [
-          "PHP","Python","Go","C","Ruby","NodeJS","GraghQL","REST","Git","Subversion","Android","iOS"
+          "PHP",
+          "Python",
+          "Go",
+          "C",
+          "Ruby",
+          "NodeJS",
+          "GraghQL",
+          "REST",
+          "Git",
+          "Subversion",
+          "Android",
+          "iOS"
         ],
         "highlights": [
-          "Working as a Freelancer is always gave me new opotionities for learning new technologies" 
+          "Working as a Freelancer is always gave me new opotionities for learning new technologies"
         ],
         "location": "Remote"
       },
@@ -146,9 +151,7 @@
         "start": "2005-12-01",
         "end": "2013-10-01",
         "url": "https://movablehost.net",
-        "keywords": [
-          "Linux", "Aapche", "CPanel", "DirectAdmin", "WHMCS"
-        ],
+        "keywords": ["Linux", "Aapche", "CPanel", "DirectAdmin", "WHMCS"],
         "highlights": [],
         "location": "Isfahan"
       },
@@ -158,9 +161,7 @@
         "start": "2004-01-01",
         "end": "2007-05-01",
         "url": "https://milad.nekofar.com",
-        "keywords": [
-          "PHP", "CakePHP", "Zend", "Yii"
-        ],
+        "keywords": ["PHP", "CakePHP", "Zend", "Yii"],
         "highlights": [
           "Develop tons of web sites using PHP frameworks, mustly CakePHP."
         ],
@@ -172,57 +173,13 @@
         "start": "2002-01-01",
         "end": "2004-01-01",
         "url": "https://milad.nekofar.com",
-        "keywords": [
-          "Perl", "PHP", "HTML", "CSS","JavaScript"
-        ],
+        "keywords": ["Perl", "PHP", "HTML", "CSS", "JavaScript"],
         "highlights": [],
         "location": "Remote"
       }
     ]
   },
-  "projects": [
-    {
-      "title": "laborum deserunt",
-      "category": "nisi nulla et proident",
-      "description": "pariatur in consectetur labore",
-      "summary": "officia est aliqua culpa",
-      "role": "ex Lorem sit irure mollit",
-      "url": "http://qmYHDhF.qhsx7.OXwcaAhc",
-      "media": [
-        {
-          "category": "laboris tempor velit fugiat",
-          "name": "ipsum",
-          "url": "tempor laboris sed deserunt"
-        },
-        {
-          "category": "ex ut velit consectetur",
-          "name": "ipsum nostrud",
-          "url": "ad anim"
-        },
-        {
-          "category": "est elit voluptate magna",
-          "name": "dolore",
-          "url": "deserunt adipisicing"
-        },
-        {
-          "category": "tempor eu laboris",
-          "name": "minim non esse fugiat",
-          "url": "qui ea"
-        },
-        {
-          "category": "enim ea reprehenderit",
-          "name": "esse",
-          "url": "quis laboris deserunt"
-        }
-      ],
-      "repo": "http://AMRWxegpNRtQcLiQVkFiVSOBXpIPrMO.biOUIWRq7Lj7SBb",
-      "start": "2005-04-29",
-      "end": "2019-04-15",
-      "highlights": ["reprehenderit Excepteur sed dolor", "cupidatat sit nisi"],
-      "location": "eu",
-      "keywords": ["commodo dolor ex", "officia ad proident ex consequat"]
-    }
-  ],
+  "projects": [],
   "skills": {
     "sets": [
       {
@@ -393,72 +350,11 @@
       "user": "nekofar"
     }
   ],
-  "recognition": [
-    {
-      "category": "anim",
-      "title": "qui",
-      "date": "1954-04-27",
-      "from": "enim officia in laborum Excepteur",
-      "summary": "ipsum anim officia sed",
-      "url": "https://mmGACesWYeVCEamUTAu.ifzhzD8idG89cJGdmpldG3P1TsVW58jnWTYol-RMFE7RMB+M"
-    }
-  ],
-  "writing": [
-    {
-      "title": "esse do in",
-      "category": "Lorem consectetur sunt deserunt",
-      "publisher": "voluptate",
-      "date": "2015-11-03",
-      "url": "magna amet",
-      "summary": "qui"
-    }
-  ],
-  "reading": [
-    {
-      "title": "amet do cupidatat",
-      "category": "aute",
-      "url": "https://vSdnwhCKCdwcDs.wjpkbwPjY23SAxfuJQa2N7.X2RNhrSVKaSKSAuVaEsnBsvz0UGLkY6S",
-      "author": "Ut",
-      "date": "2003-07-13",
-      "summary": "dolor velit"
-    }
-  ],
-  "speaking": [
-    {
-      "title": "ut magna laboris in",
-      "event": "incididunt ex tempor occaecat velit",
-      "location": "in quis laboris reprehenderit",
-      "date": "2009-11-23",
-      "highlights": [
-        "deserunt Lorem reprehenderit sunt enim",
-        "quis Duis reprehenderit",
-        "et Ut in elit irure",
-        "esse"
-      ],
-      "keywords": [
-        "fugiat nostrud eiusmod eu",
-        "non et in",
-        "fugiat labore tempor amet reprehenderit"
-      ],
-      "summary": "qui quis velit"
-    }
-  ],
-  "governance": [
-    {
-      "summary": "pariatur dolor amet",
-      "category": "ut",
-      "role": "voluptate culpa",
-      "organization": "sint",
-      "start": "1953-09-01",
-      "end": "1997-12-30",
-      "keywords": [
-        "exercitation irure labore elit ad",
-        "Ut irure amet",
-        "minim proident id"
-      ],
-      "highlights": ["sed mollit"]
-    }
-  ],
+  "recognition": [],
+  "writing": [],
+  "reading": [],
+  "speaking": [],
+  "governance": [],
   "languages": [
     {
       "language": "Persian",
@@ -471,93 +367,10 @@
       "years": 10
     }
   ],
-  "samples": [
-    {
-      "title": "amet incididunt magna",
-      "summary": "labore",
-      "url": "http://eecNfyfvAZV.dnexoMvR.vtxFSnyvkc3hvv4",
-      "date": "2014-07-08",
-      "highlights": [
-        "magna culpa aliquip amet veniam",
-        "amet in eiusmod cillum",
-        "in"
-      ],
-      "keywords": ["consequat", "minim dolore aliquip labore et"]
-    }
-  ],
-  "references": [
-    {
-      "name": "culpa quis proident cillum",
-      "role": "fugiat adipisicing laborum Ut officia",
-      "category": "dolore proident veniam laborum",
-      "private": false,
-      "summary": "amet aliqua ad in deserunt",
-      "contact": [
-        {
-          "label": "esse aliquip",
-          "category": "ut adipisicing dolore fugiat",
-          "value": "ad"
-        }
-      ]
-    }
-  ],
-  "testimonials": [
-    {
-      "name": "enim",
-      "quote": "Ut",
-      "category": "in do proident",
-      "private": false
-    },
-    {
-      "name": "nisi nulla ullamco",
-      "quote": "sint fugiat",
-      "category": "in reprehenderit",
-      "private": false
-    }
-  ],
-  "interests": [
-    {
-      "name": "Electronics",
-      "summary": "IoT",
-      "keywords": ["Arduino", "RasberyPi"]
-    }
-  ],
-  "extracurricular": [
-    {
-      "title": "sit in in nisi",
-      "activity": "enim ad",
-      "location": "sunt",
-      "start": "2001-08-09",
-      "end": "1963-07-23"
-    },
-    {
-      "title": "culpa tempor",
-      "activity": "commodo proident in ut",
-      "location": "esse non",
-      "start": "1945-08-31",
-      "end": "2006-01-12"
-    }
-  ],
-  "affiliation": {
-    "summary": "sint mollit cillum non",
-    "history": [
-      {
-        "category": "in ea veniam",
-        "organization": "commodo adipisicing",
-        "role": "consectetur",
-        "url": "http://Iy.nanffb9E-w-gQCsEE-.WeV",
-        "start": "1954-05-08",
-        "end": "2003-02-03",
-        "summary": "laboris ipsum fugiat aute Lorem",
-        "highlights": [
-          "Lorem sint commodo",
-          "dolor labore Ut ea non",
-          "aliquip ipsum in id Duis",
-          "sint dolore eu mollit et"
-        ],
-        "keywords": ["ullamco"],
-        "location": "est tempor dolore deserunt"
-      }
-    ]
-  }
+  "samples": [],
+  "references": [],
+  "testimonials": [],
+  "interests": [],
+  "extracurricular": [],
+  "affiliation": {}
 }

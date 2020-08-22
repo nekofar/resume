@@ -57,6 +57,6 @@ jobs:
     - name: Add & Commit
       uses: EndBug/add-and-commit@v4.4.0
       with:
-        add: README.md resume.*
+        add: README.md resume.html resume.pdf resume.png
         message: Update resume files
 

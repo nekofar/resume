@@ -19,7 +19,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -38,13 +38,8 @@ jobs:
     # Install latest version of wkhtmltopdf & wkhtmltoimage
     - name: Install wkhtmltopdf & wkhtmltoimage
       run: |
-        pushd /tmp
-        sudo apt update
-        sudo apt -y install wget
-        wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
-        sudo apt -y install ./wkhtmltox_0.12.6-1.focal_amd64.deb
-        sudo apt -f install
+        brew cask install wkhtmltopdf
         wkhtmltopdf --version
         wkhtmltoimage --version
-        popd
+  
 

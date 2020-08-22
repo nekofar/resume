@@ -36,14 +36,14 @@ jobs:
       run: npm install hacksalot/hackmyresume#dev -g
     
     # Install latest version of wkhtmltopdf & wkhtmltoimage
-    - name: Install wkhtmltopdf & wkhtmltoimage
-      run: |
-        brew cask install wkhtmltopdf
-        wkhtmltopdf --version
-        wkhtmltoimage --version
+    # - name: Install wkhtmltopdf & wkhtmltoimage
+      # run: |
+        # brew cask install wkhtmltopdf
+        # wkhtmltopdf --version
+        # wkhtmltoimage --version
         
     # Install PhantomJS using Homebrew
-    - name: Install PhantomJS using Homebrew
+    - name: Install PhantomJS 
       run: |
         brew cask install phantomjs
         phantomjs --version
@@ -60,12 +60,12 @@ jobs:
     # Generate resume formats using HackMyResume
     - name: Generate resume formats
       run: |
-        hackmyresume build resume.json TO resume.doc resume.pdf resume.png -o .hackmyrc
+        hackmyresume build resume.json to resume.doc resume.pdf readme.txt -o .hackmyrc
         
     # Add & Commit resume changes
     - name: Add & Commit resume changes
       uses: EndBug/add-and-commit@v4.4.0
       with:
-        add: resume.doc resume.pdf resume.png
+        add: resume.doc resume.pdf readme.txt
         message: Update resume files
 

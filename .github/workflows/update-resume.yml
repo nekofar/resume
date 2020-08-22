@@ -41,5 +41,15 @@ jobs:
         brew cask install wkhtmltopdf
         wkhtmltopdf --version
         wkhtmltoimage --version
+        
+    # Install Non-Free Fonts using Homebrew
+    - name: Install Non-Free Fonts
+      run: |
+        brew tap colindean/fonts-nonfree
+        brew cask install font-microsoft-office
   
+    # Generate resume formats using HackMyResume
+    - name: Generate resume formats
+      run: |
+        hackmyresume build resume.json
 

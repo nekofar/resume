@@ -1,0 +1,12 @@
+{
+  "theme": "compact",
+
+  "sectionTitles": {
+    "employment": "Experiance",
+    "service": "Voluntarily"
+  },
+
+  "wkhtmltopdf": {
+    "margin-top": "20mm"
+  }
+}

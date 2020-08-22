@@ -184,45 +184,45 @@
     "sets": [
       {
         "name": "Mobile Development",
-        "level": "Competent",
+        "level": "advanced",
         "skills": ["Java", "Objective-C", "Swift", "Kotlin"]
       },
       {
         "name": "Backend Development",
-        "level": "Expert",
+        "level": "master",
         "skills": ["MySQL", "PHP", "Python", "Ruby", "MongoDB"]
       },
       {
         "name": "Project Management",
-        "level": "Competent",
+        "level": "advanced",
         "skills": ["Scrum", "Kanban"]
       },
       {
         "name": "Server Administration",
-        "level": "Competent",
+        "level": "advanced",
         "skills": ["Linux", "Docker", "Cpanel", "DirectAdmin"]
       },
       {
         "name": "Game Development",
-        "level": "Novice",
+        "level": "beginner",
         "skills": ["Unity", "Godot", "C#"]
       },
       {
         "name": "Frontend Development",
-        "level": "Competent",
+        "level": "advanced",
         "skills": ["JavaScript", "CSS", "HTML"]
       }
     ],
     "list": [
       {
         "name": "PHP",
-        "level": "Expert",
+        "level": "master",
         "summary": "Develop backend and APIs",
         "years": 18
       },
       {
         "name": "Java",
-        "level": "Competent",
+        "level": "advanced",
         "summary": "Develop mobile and libraries for Android",
         "years": 5
       }

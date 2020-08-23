@@ -16,9 +16,9 @@ SKILLS -------------------------------------------------------------------------
 
 - Backend: Slim Sinatra REST GraghQL SOAP 
 - Frontend: JavaScript CSS HTML5 SASS LESS jQuery VueJS React 
-- Database: MySQL MariaDB MongoDB Redis 
-- DevOps: Linux Docker Kubernetes Vagrant 
 - Mobile: Java Objective-C Swift Kotlin Android iOS 
+- DevOps: Linux Docker Kubernetes Vagrant 
+- Database: MySQL MariaDB MongoDB Redis 
 - Games: Unity Godot 
 - Projects: Scrum Kanban 
 - Programming: PHP Python Java Objective-C C Shell Perl Go Ruby C# TypeScript ActionScript 

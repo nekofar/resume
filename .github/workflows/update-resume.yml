@@ -78,6 +78,8 @@ jobs:
     - name: Add & Commit resume changes
       uses: EndBug/add-and-commit@v4.4.0
       with:
+        cwd: resume
         add: resume.pdf readme.txt resume.md
+        ref: develop
         message: Update resume files
 

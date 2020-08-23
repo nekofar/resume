@@ -1,8 +1,10 @@
 Milad Nekofar
 ============
-Email: milad@nekofar.com
-Tel: +98 913 594 1004
-Web: https://milad.nekofar.com
+- Email: milad@nekofar.com
+- Tel: +98 913 594 1004
+- Web: https://milad.nekofar.com
+
+---
 
 I'm a self-taught Software Developer. I have around two decades of experience in the software industry. At the moment, I work on software development projects as a freelancer.
 

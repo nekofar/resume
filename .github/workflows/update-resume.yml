@@ -16,20 +16,17 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
+  # This workflow contains a one job
+  update:
     # The type of runner that the job will run on
     runs-on: macos-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
         
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-
     # Setup Node.js environment
     - name: Setup Node.js environment
-      uses: actions/setup-node@v1.4.3
+      uses: actions/setup-node@v1
       
     # Install the latest version of HackMyResume with NPM:
     - name: Install HackMyResume with NPM
@@ -57,6 +54,15 @@ jobs:
         atsutil server -shutdown
         atsutil server -ping
   
+    # Check-out customized theme repo
+    - uses: actions/checkout@v2
+      with:
+        repository: nekofar/fresh-themes
+        ref: refs/heads/develop
+    
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+
     # Generate resume formats using HackMyResume
     - name: Generate resume formats
       run: |

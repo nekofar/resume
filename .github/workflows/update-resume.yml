@@ -54,14 +54,17 @@ jobs:
         atsutil server -shutdown
         atsutil server -ping
   
-    # Check-out customized theme repo
+    # Check-out themes repo
     - uses: actions/checkout@v2
       with:
         repository: nekofar/fresh-themes
-        ref: refs/heads/develop
+        ref: develop
+        path: theme
     
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    # Checks-out resume repo 
     - uses: actions/checkout@v2
+      with:
+        path: resume
 
     # Generate resume formats using HackMyResume
     - name: Generate resume formats

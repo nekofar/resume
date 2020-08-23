@@ -1,8 +1,12 @@
-Milad Nekofar
-============
-- Email: milad@nekofar.com
-- Tel: +98 913 594 1004
-- Web: https://milad.nekofar.com
+<h1 align="center">
+  Milad Nekofar
+</h1>
+
+<p align="center">
+  <a href="mailto:milad@nekofar.com">milad@nekofar.com</a> . 
+  +98 913 594 1004 .
+  <a href="https://milad.nekofar.com">milad.nekofar.com</a>
+</p>
 
 ---
 

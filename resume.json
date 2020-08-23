@@ -183,34 +183,66 @@
   "skills": {
     "sets": [
       {
-        "name": "Mobile Development",
+        "name": "Backend",
         "level": "advanced",
-        "skills": ["Java", "Objective-C", "Swift", "Kotlin"]
+        "skills": ["Slim", "Sinatra", "REST", "GraghQL", "SOAP"]
       },
       {
-        "name": "Backend Development",
-        "level": "master",
-        "skills": ["MySQL", "PHP", "Python", "Ruby", "MongoDB"]
+        "name": "Frontend",
+        "level": "advanced",
+        "skills": [
+          "JavaScript",
+          "CSS",
+          "HTML5",
+          "SASS",
+          "LESS",
+          "jQuery",
+          "VueJS",
+          "React"
+        ]
       },
       {
-        "name": "Project Management",
+        "name": "Database",
+        "level": "advanced",
+        "skills": ["MySQL", "MariaDB", "MongoDB", "Redis"]
+      },
+      {
+        "name": "DevOps",
+        "level": "intermediate",
+        "skills": ["Linux", "Docker", "Kubernetes", "Vagrant"]
+      },
+      {
+        "name": "Mobile",
+        "level": "advanced",
+        "skills": ["Java", "Objective-C", "Swift", "Kotlin", "Android", "iOS"]
+      },
+      {
+        "name": "Games",
+        "level": "beginner",
+        "skills": ["Unity", "Godot"]
+      },
+      {
+        "name": "Projects",
         "level": "advanced",
         "skills": ["Scrum", "Kanban"]
       },
       {
-        "name": "Server Administration",
+        "name": "Programming",
         "level": "advanced",
-        "skills": ["Linux", "Docker", "Cpanel", "DirectAdmin"]
-      },
-      {
-        "name": "Game Development",
-        "level": "beginner",
-        "skills": ["Unity", "Godot", "C#"]
-      },
-      {
-        "name": "Frontend Development",
-        "level": "advanced",
-        "skills": ["JavaScript", "CSS", "HTML"]
+        "skills": [
+          "PHP",
+          "Python",
+          "Java",
+          "Objective-C",
+          "C",
+          "Shell",
+          "Perl",
+          "Go",
+          "Ruby",
+          "C#",
+          "TypeScript",
+          "ActionScript"
+        ]
       }
     ],
     "list": [

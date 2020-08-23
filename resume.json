@@ -202,9 +202,9 @@
         ]
       },
       {
-        "name": "Database",
+        "name": "Mobile",
         "level": "advanced",
-        "skills": ["MySQL", "MariaDB", "MongoDB", "Redis"]
+        "skills": ["Java", "Objective-C", "Swift", "Kotlin", "Android", "iOS"]
       },
       {
         "name": "DevOps",
@@ -212,9 +212,9 @@
         "skills": ["Linux", "Docker", "Kubernetes", "Vagrant"]
       },
       {
-        "name": "Mobile",
+        "name": "Database",
         "level": "advanced",
-        "skills": ["Java", "Objective-C", "Swift", "Kotlin", "Android", "iOS"]
+        "skills": ["MySQL", "MariaDB", "MongoDB", "Redis"]
       },
       {
         "name": "Games",

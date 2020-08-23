@@ -14,12 +14,14 @@ Sometimes I give consultation to the startups or cooperate with them.
 
 SKILLS -------------------------------------------------------------------------
 
-- Mobile Development: Java Objective-C Swift Kotlin 
-- Backend Development: MySQL PHP Python Ruby MongoDB 
-- Project Management: Scrum Kanban 
-- Server Administration: Linux Docker Cpanel DirectAdmin 
-- Game Development: Unity Godot C# 
-- Frontend Development: JavaScript CSS HTML 
+- Backend: Slim Sinatra REST GraghQL SOAP 
+- Frontend: JavaScript CSS HTML5 SASS LESS jQuery VueJS React 
+- Database: MySQL MariaDB MongoDB Redis 
+- DevOps: Linux Docker Kubernetes Vagrant 
+- Mobile: Java Objective-C Swift Kotlin Android iOS 
+- Games: Unity Godot 
+- Projects: Scrum Kanban 
+- Programming: PHP Python Java Objective-C C Shell Perl Go Ruby C# TypeScript ActionScript 
 
 
 Experiance ---------------------------------------------------------------------

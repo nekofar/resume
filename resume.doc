@@ -587,7 +587,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>Database:</w:t>
+            <w:t>Mobile:</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -598,7 +598,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>MySQL, MariaDB, MongoDB, Redis</w:t>
+            <w:t>Java, Objective-C, Swift, Kotlin, Android, iOS</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -639,7 +639,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>Mobile:</w:t>
+            <w:t>Database:</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -650,7 +650,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>Java, Objective-C, Swift, Kotlin, Android, iOS</w:t>
+            <w:t>MySQL, MariaDB, MongoDB, Redis</w:t>
           </w:r>
         </w:p>
       </w:tc>

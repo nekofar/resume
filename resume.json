@@ -131,7 +131,7 @@
           "Go",
           "C",
           "Ruby",
-          "NodeJS",
+          "Node.js",
           "GraghQL",
           "REST",
           "Git",
@@ -185,7 +185,15 @@
       {
         "name": "Backend",
         "level": "advanced",
-        "skills": ["Slim", "Sinatra", "REST", "GraghQL", "SOAP"]
+        "skills": [
+          "Slim",
+          "Express.js",
+          "Sinatra",
+          "REST",
+          "GraghQL",
+          "SOAP",
+          "RPC"
+        ]
       },
       {
         "name": "Frontend",
@@ -194,27 +202,50 @@
           "JavaScript",
           "CSS",
           "HTML5",
-          "SASS",
-          "LESS",
+          "Sass",
+          "Less",
           "jQuery",
-          "VueJS",
+          "Vue.js",
           "React"
         ]
       },
       {
         "name": "Mobile",
         "level": "advanced",
-        "skills": ["Java", "Objective-C", "Swift", "Kotlin", "Android", "iOS"]
+        "skills": [
+          "Java",
+          "Objective-C",
+          "Swift",
+          "Kotlin",
+          "Android",
+          "iOS",
+          "Flutter"
+        ]
       },
       {
         "name": "DevOps",
         "level": "intermediate",
-        "skills": ["Linux", "Docker", "Kubernetes", "Vagrant"]
+        "skills": [
+          "Linux",
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Vagrant",
+          "Selenium"
+        ]
       },
       {
         "name": "Database",
         "level": "advanced",
-        "skills": ["MySQL", "MariaDB", "MongoDB", "Redis"]
+        "skills": [
+          "MySQL",
+          "MariaDB",
+          "MongoDB",
+          "Redis",
+          "SQLite",
+          "MSSQL",
+          "Realm"
+        ]
       },
       {
         "name": "Games",

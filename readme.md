@@ -25,7 +25,7 @@ Sometimes I give consultation to the startups or cooperate with them.
   - Database: MySQL MariaDB MongoDB Redis SQLite MSSQL Realm 
   - Games: Unity Godot 
   - Projects: Scrum Kanban 
-  - Programming: PHP Python Java Objective-C C Shell Perl Go Ruby C# TypeScript ActionScript 
+  - Programming: PHP Python Java Objective-C C Shell Perl Go Ruby TypeScript 
 
 ## EMPLOYMENT
 

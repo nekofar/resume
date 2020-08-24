@@ -50,6 +50,33 @@
     "history": [
       {
         "position": "Senior Software Developer",
+        "employer":"Freelancer",
+        "summary": "Finally, I decide to switch to fulltime, most of the time as a freelancer and sometimes as a contractor in the field of Web development, mostly backend and PHP. \nIn recent past years, I learned other technologies and started to work on application development for mobile, first Android, and then iOS either.",
+        "current": true,
+        "start": "2007-05-01",
+        "end": null,
+        "url": "https://milad.nekofar.com",
+        "keywords": [
+          "PHP",
+          "Python",
+          "Go",
+          "C",
+          "Ruby",
+          "Node.js",
+          "GraghQL",
+          "REST",
+          "Git",
+          "Subversion",
+          "Android",
+          "iOS"
+        ],
+        "highlights": [
+          "Working as a Freelancer is always gave me new opotionities for learning new technologies"
+        ],
+        "location": "Remote"
+      },
+      {
+        "position": "Senior Software Developer",
         "employer": "MyFlashLabs",
         "summary": "Develop and maintain Adobe AIR Native Extensions for use with iOS and Android mobile platforms. Maintain softwares backend based on WordPress REST API.",
         "current": true,
@@ -119,32 +146,6 @@
         "location": "Isfahan"
       },
       {
-        "position": "Senior Software Developer",
-        "summary": "Finally, I decide to switch to fulltime, most of the time as a freelancer and sometimes as a contractor in the field of Web development, mostly backend and PHP. \nIn recent past years, I learned other technologies and started to work on application development for mobile, first Android, and then iOS either.",
-        "current": true,
-        "start": "2007-05-01",
-        "end": null,
-        "url": "https://milad.nekofar.com",
-        "keywords": [
-          "PHP",
-          "Python",
-          "Go",
-          "C",
-          "Ruby",
-          "Node.js",
-          "GraghQL",
-          "REST",
-          "Git",
-          "Subversion",
-          "Android",
-          "iOS"
-        ],
-        "highlights": [
-          "Working as a Freelancer is always gave me new opotionities for learning new technologies"
-        ],
-        "location": "Remote"
-      },
-      {
         "position": "Owner / Managing Director",
         "employer": "Movable Host",
         "summary": "Provide and manage dedicated servers, virtual servers and hosted services. Setup and secure dedicated and virtual servers.",
@@ -157,6 +158,7 @@
       },
       {
         "position": "Medior Software Developer",
+        "employer":"Freelancer",
         "summary": "It's been years past since I started coding. I've started with web development when I was younger as a hobby and then as a part-time freelance job.",
         "start": "2004-01-01",
         "end": "2007-05-01",
@@ -169,6 +171,7 @@
       },
       {
         "position": "Junior Software Developer",
+        "employer":"Freelancer",
         "summary": "I started programming with Perl and PHP. Those years were the weblogs hype, and must of the time I was working on the design and develop wide types of blog templates. Persianblog, Blogger, Blogspot, Movable Type, WordPress.",
         "start": "2002-01-01",
         "end": "2004-01-01",

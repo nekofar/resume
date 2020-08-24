@@ -29,6 +29,12 @@ Sometimes I give consultation to the startups or cooperate with them.
 
 ## EMPLOYMENT
 
+- ***Senior Software Developer***, [Freelancer](https://milad.nekofar.com) (2007-05 — Present)
+
+  Finally, I decide to switch to fulltime, most of the time as a freelancer and sometimes as a contractor in the field of Web development, mostly backend and PHP. 
+In recent past years, I learned other technologies and started to work on application development for mobile, first Android, and then iOS either.
+    - Working as a Freelancer is always gave me new opotionities for learning new technologies
+
 - ***Senior Software Developer***, [MyFlashLabs](https://myflashlabs.com) (2019-11 — Present)
 
   Develop and maintain Adobe AIR Native Extensions for use with iOS and Android mobile platforms. Maintain softwares backend based on WordPress REST API.
@@ -55,22 +61,16 @@ It took years, but finally, I realize I'm not that kind of person who can work i
 My job was analysis projects, programming on web development projects, maintaining servers and training of new recruits in the last years.
     - Develop and maintain hundreds of websites based on custom cms.
 
-- ***Senior Software Developer***, [](https://milad.nekofar.com) (2007-05 — Present)
-
-  Finally, I decide to switch to fulltime, most of the time as a freelancer and sometimes as a contractor in the field of Web development, mostly backend and PHP. 
-In recent past years, I learned other technologies and started to work on application development for mobile, first Android, and then iOS either.
-    - Working as a Freelancer is always gave me new opotionities for learning new technologies
-
 - ***Owner / Managing Director***, [Movable Host](https://movablehost.net) (2005-12 — 2013-10)
 
   Provide and manage dedicated servers, virtual servers and hosted services. Setup and secure dedicated and virtual servers.
 
-- ***Medior Software Developer***, [](https://milad.nekofar.com) (2004-01 — 2007-05)
+- ***Medior Software Developer***, [Freelancer](https://milad.nekofar.com) (2004-01 — 2007-05)
 
   It's been years past since I started coding. I've started with web development when I was younger as a hobby and then as a part-time freelance job.
     - Develop tons of web sites using PHP frameworks, mustly CakePHP.
 
-- ***Junior Software Developer***, [](https://milad.nekofar.com) (2002-01 — 2004-01)
+- ***Junior Software Developer***, [Freelancer](https://milad.nekofar.com) (2002-01 — 2004-01)
 
   I started programming with Perl and PHP. Those years were the weblogs hype, and must of the time I was working on the design and develop wide types of blog templates. Persianblog, Blogger, Blogspot, Movable Type, WordPress.
 

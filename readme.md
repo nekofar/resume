@@ -47,6 +47,7 @@ In recent past years, I learned other technologies and started to work on applic
 - ***Lead Software Developer***, [Abasmanesh Research Group](https://abasmanesh.com:) (2014-11 — 2018-11)
 
   It was a good experience for me to have more communication with the end users in this job. I work mostly from remote on the website and their mobile applications projects as an independent contractor.
+    - Transfer customer history and thousands of users' information from legacy software to WooCommerce.
     - Develop and maintain more than fifty WordPress plugins.
     - Manage, maintain and secured servers and applications for client various needs.
 
@@ -86,60 +87,75 @@ My job was analysis projects, programming on web development projects, maintaini
 
 ## EDUCATION
 
-- Harati High School (2003-01 — 2004-01)
+- ***Diploma***, [Harati High School](https://en.wikipedia.org/wiki/Harati_High_School) (2000-01 — 2004-01)
+
+  I have started learning to work with computers before high school through workshops which I always was the youngest participants.
+ My connections with university students and observing the low level of my country's higher education in the field of IT at that time made me decide to leave the academic education system and continue my path through self-studying.
 
 
 
 
 
+## WRITING
+
+- ***Translation of articles related to the field of free software*** (Salam Dnya Magazine, 2016-01)
+
+  Participate in the translation of a series of articles related to the field of free and open source software from English to Persian language.
+
+- ***A series of articles in the field of software development*** (Hive Web Magazine, 2015-01)
+
+  Writing weekly about technologies and software development especially mobile development in Persian
 
 
 
 ## SERVICE
 
-- ***Event Organizer***, Startup Weekend Tourism (2015-11)
+- ***Community Organizer***, [Hamfekr](https://hamfekr.net/) (2014-12 — 2018-01)
 
-  Organize and formation of Startup Weekend Tourism in Esfahan.
+  It is a weekly event and an opportunity for entrepreneurs, entrepreneurs, designers and investors who were networking, exchanging opinions and learning.
+    - Organize and formation of Hamfekr meetings in Esfahan for years.
+    - Organize hundreds of weekly meetings with thousands of participants from across the province and the country.
 
-- ***Workshop Facilitator***, Hamnet (2015-09)
+- ***Workshop Facilitator***, [Hamnet](http://hamnetevent.ir) (2015-09)
 
-  Help teams for work on their Business Model Canvas and Technical issues.
+  Hemnet is a three-stage entrepreneurship event, based on the local economic and entrepreneurial conditions in each region.
+    - Help teams for work on their Business Model Canvas and Technical issues.
 
-- ***Event Organizer***, Startup Spark (2015-07 — 2015-08)
+- ***Event Organizer***, [Startup Spark](http://startupspark.ir) (2015-07 — 2015-08)
 
-  Organize and formation of Startup Spark meetings in Esfahan.
-
-- ***Community Organizer***, Hamfekr (2015-06 — 2018-01)
-
-  Organize and formation of Hamfekr meetings in Esfahan.
-
-- ***Technical Author***, Hive Web Magazine (2015-01 — 2016-01)
-
-  Writing weekly about technologies and software development especially mobile development in Persian.
-
-
-- ***Event Organizer***, Hamfekr (2014-12 — 2015-03)
-
-  Help and support on organize and formation of Hamfekr meetings in Esfahan.
+  Startup Spark is a startup gathering. Includes seminar on startups issues, tips on new ways of entrepreneurship. Face-to-face interview with one of the leading entrepreneurs and networkers.
+    - Organize and formation of Startup Spark meetings in Esfahan.
 
 - ***Event Organizer***, Startup Weekend Isfahan (2013-11)
 
-  Assist in executive affairs.
+  Startup Weekend is a 54-hour weekend event, during which groups of developers, business managers, startup enthusiasts, marketing experts, graphic artists and more pitch ideas for new startup companies, form teams around those ideas, and work to develop a working prototype, demo, or presentation by Sunday evening.
+    - Participation in holding and coordinating the first startup weekend in Isfahan.
 
 
 
+
+## SPEAKING
+
+- ***Freelance work, requirements, goal setting, planning***, Autocom (2018)
+
+  In a workshop on the sidelines of the Isfahan International Computer and Office Automation Exhibition, organized by Ponisha, I spoke about freelance and starting to work as a freelancer.
+
+  - Investigate the advantages of freelancing compared to long-term employment.
 
 
 
 ## INTERESTS
 
-- ELECTRONICS: Arduino Raspberry Pi Cubieboard IoT Drone 
-I have been interested in electronics since I was a teenager, but I was not very active in this field. Recently, despite microcontroller boards accessibility like Arduino and Raspberry Pi, and discussions like the Internet of Things, I became very interested in this area.
+  - ***Electronics***
 
-- 3D PRINTING: Prusa i3 Tinkercad 
-Unfortunately, I do not have a 3D printer yet, but it is one of the hobbies I am researching these days, and maybe even if I have the opportunity to make a DIY printer.
+    I have been interested in electronics since I was a teenager, but I was not very active in this field. Recently, despite microcontroller boards accessibility like Arduino and Raspberry Pi, and discussions like the Internet of Things, I became very interested in this area.
 
-- CRYPTOCURRENCY: Bitcoin Ethereum Ripple Tron Solidity 
-I have been interested in cryptocurrencies for several years, I was mostly a Hodler, but recently I did some work in the field of payment and I became more serious. Recently I worked with Solidity but not serious activity.
+  - ***3D printing***
+
+    Unfortunately, I do not have a 3D printer yet, but it is one of the hobbies I am researching these days, and maybe even if I have the opportunity to make a DIY printer.
+
+  - ***Cryptocurrency***
+
+    I have been interested in cryptocurrencies for several years, I was mostly a Hodler, but recently I did some work in the field of payment and I became more serious. Recently I worked with Solidity but not serious activity.
 
 

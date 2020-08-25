@@ -55,6 +55,7 @@ jobs:
         run: |
           brew tap colindean/fonts-nonfree
           brew cask install font-microsoft-office
+          brew tap homebrew/cask-fonts
           brew cask install font-fontawesome
           sudo atsutil databases -remove
           atsutil server -shutdown

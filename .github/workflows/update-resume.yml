@@ -43,15 +43,24 @@ jobs:
         run: |
           brew cask install phantomjs
           phantomjs --version
+          
+      # Install WeasyPrint using pip
+      - name: Install 
+        run: |
+          brew install python3 cairo pango gdk-pixbuf libffi
+          pip3 install WeasyPrint
 
       # Install Non-Free Fonts using Homebrew
       - name: Install Non-Free Fonts
         run: |
-          brew install fontconfig
           brew tap colindean/fonts-nonfree
           brew cask install font-microsoft-office
-          sudo fc-cache -fv
-
+          sudo atsutil databases -remove
+          atsutil server -shutdown
+          atsutil server -ping
+          brew uninstall fontconfig
+          brew install fontconfig
+          
       # Check-out sadeh theme repo
       - uses: actions/checkout@v2
         with:
@@ -76,7 +85,7 @@ jobs:
       - name: Generate resume formats
         run: |
           hackmyresume build resume/resume.json to resume/readme.md -d -t markdown 
-          hackmyresume build resume/resume.json to resume/resume.pdf -d -t sadeh -p phantom
+          hackmyresume build resume/resume.json to resume/resume.pdf -d -t sadeh -o .hackmyrc.json
 
       # Add & Commit resume changes
       - name: Add & Commit resume changes

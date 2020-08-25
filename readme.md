@@ -24,7 +24,7 @@ Sometimes I give consultation to the startups or cooperate with them.
   - DevOps: Linux Git Docker Kubernetes Vagrant Selenium 
   - Database: MySQL MariaDB MongoDB Redis SQLite MSSQL Realm 
   - Games: Unity Godot 
-  - Projects: Scrum Kanban 
+  - Projects: Agile Scrum Kanban 
   - Programming: PHP Python Java Objective-C C Shell Perl Go Ruby TypeScript 
 
 ## EMPLOYMENT
@@ -35,20 +35,25 @@ Sometimes I give consultation to the startups or cooperate with them.
 In recent past years, I learned other technologies and started to work on application development for mobile, first Android, and then iOS either.
     - Working as a Freelancer is always gave me new opotionities for learning new technologies
     - As a freelancer, I am able to deal with a wide range of tasks in website development, website design, database design, back-end, and front-end development.
+    - Utilized existing web technologies including WordPress, Laravel and Drupal for small businesses websites.
 
 - ***Senior Software Developer***, [MyFlashLabs](https://myflashlabs.com) (2019-11 — Present)
 
   Develop and maintain Adobe AIR Native Extensions for use with iOS and Android mobile platforms. Maintain softwares backend based on WordPress REST API.
     - Develop and maintain more than fifty AIR Native Extensions.
+    - Create, develop and maintain all Objective-C and Java libraries for Extensions
+    - Create and maintain gradle plugins to maintain release workflow automatically.
 
 - ***Lead Software Developer***, [Abasmanesh Research Group](https://abasmanesh.com:) (2014-11 — 2018-11)
 
   It was a good experience for me to have more communication with the end users in this job. I work mostly from remote on the website and their mobile applications projects as an independent contractor.
     - Develop and maintain more than fifty WordPress plugins.
+    - Manage, maintain and secured servers and applications for client various needs.
 
 - ***Senior Softwar Developer***, [Bugloos](http://www.bugloos.nl) (2014-10 — 2014-11)
 
   It was for short period of time, I just worked as a freelancer on couple of their projects. They asked me for a full-time position, but at the time, I was reluctant to do so.
+    - Collaborate on develop and maintain the front-end and back-end of a custom built web app by PHP frameworks.
 
 - ***Senior Software Developer***, [Papata Game Studio](http://papatalab.ir) (2013-12 — 2014-06)
 
@@ -124,5 +129,17 @@ My job was analysis projects, programming on web development projects, maintaini
 
 
 
+
+
+## INTERESTS
+
+- ELECTRONICS: Arduino Raspberry Pi Cubieboard IoT Drone 
+I have been interested in electronics since I was a teenager, but I was not very active in this field. Recently, despite microcontroller boards accessibility like Arduino and Raspberry Pi, and discussions like the Internet of Things, I became very interested in this area.
+
+- 3D PRINTING: Prusa i3 Tinkercad 
+Unfortunately, I do not have a 3D printer yet, but it is one of the hobbies I am researching these days, and maybe even if I have the opportunity to make a DIY printer.
+
+- CRYPTOCURRENCY: Bitcoin Ethereum Ripple Tron Solidity 
+I have been interested in cryptocurrencies for several years, I was mostly a Hodler, but recently I did some work in the field of payment and I became more serious. Recently I worked with Solidity but not serious activity.
 
 

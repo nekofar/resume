@@ -34,6 +34,7 @@ Sometimes I give consultation to the startups or cooperate with them.
   Finally, I decide to switch to fulltime, most of the time as a freelancer and sometimes as a contractor in the field of Web development, mostly backend and PHP. 
 In recent past years, I learned other technologies and started to work on application development for mobile, first Android, and then iOS either.
     - Working as a Freelancer is always gave me new opotionities for learning new technologies
+    - As a freelancer, I am able to deal with a wide range of tasks in website development, website design, database design, back-end, and front-end development.
 
 - ***Senior Software Developer***, [MyFlashLabs](https://myflashlabs.com) (2019-11 — Present)
 
@@ -69,6 +70,7 @@ My job was analysis projects, programming on web development projects, maintaini
 
   It's been years past since I started coding. I've started with web development when I was younger as a hobby and then as a part-time freelance job.
     - Develop tons of web sites using PHP frameworks, mustly CakePHP.
+    - This experience has not only helped me to understand the whole process of development but also taught me how to achieve great productivity.
 
 - ***Junior Software Developer***, [Freelancer](https://milad.nekofar.com) (2002-01 — 2004-01)
 

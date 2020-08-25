@@ -28,8 +28,8 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v1
 
-      # Install the latest version of HackMyResume with NPM:
-      - name: Install HackMyResume with NPM
+      # Install the latest version of HackMyResume 
+      - name: Install HackMyResume 
         run: npm install hacksalot/hackmyresume#dev -g
 
       # Install latest version of wkhtmltopdf & wkhtmltoimage
@@ -41,10 +41,10 @@ jobs:
           # wkhtmltoimage --version
 
       # Install PhantomJS for PNG
-      - name: Install PhantomJS
-        run: |
-          brew cask install phantomjs
-          phantomjs --version
+      # - name: Install PhantomJS
+        # run: |
+          # brew cask install phantomjs
+          # phantomjs --version
           
       # Install WeasyPrint for PDF
       - name: Install WeasyPrint 

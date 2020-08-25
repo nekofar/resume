@@ -33,12 +33,12 @@ jobs:
         run: npm install hacksalot/hackmyresume#dev -g
 
       # Install latest version of wkhtmltopdf & wkhtmltoimage
-      - name: Install wkhtmltopdf & wkhtmltoimage
-        run: |
-          brew update
-          brew cask install wkhtmltopdf
-          wkhtmltopdf --version
-          wkhtmltoimage --version
+      # - name: Install wkhtmltopdf & wkhtmltoimage
+        # run: |
+          # brew update
+          # brew cask install wkhtmltopdf
+          # wkhtmltopdf --version
+          # wkhtmltoimage --version
 
       # Install PhantomJS for PNG
       - name: Install PhantomJS

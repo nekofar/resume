@@ -18,7 +18,7 @@ jobs:
   # This workflow contains a one job
   update:
     # The type of runner that the job will run on
-    runs-on: macos-latest
+    runs-on: debian-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -33,24 +33,21 @@ jobs:
       # Install latest version of wkhtmltopdf & wkhtmltoimage
       - name: Install wkhtmltopdf & wkhtmltoimage
         run: |
-          brew cask install wkhtmltopdf
+          sudo apt update
+          sudo apt -y install wkhtmltopdf
           wkhtmltopdf --version
           wkhtmltoimage --version
 
       # Install PhantomJS using Homebrew
       - name: Install PhantomJS
         run: |
-          brew cask install phantomjs
+          sudo apt -y install phantomjs
           phantomjs --version
 
       # Install Non-Free Fonts using Homebrew
       - name: Install Non-Free Fonts
         run: |
-          brew tap colindean/fonts-nonfree
-          brew cask install font-microsoft-office
-          sudo atsutil databases -remove
-          atsutil server -shutdown
-          atsutil server -ping
+          sudo apt -y install ttf-mscorefonts-installer
 
       # Check-out sadeh theme repo
       - uses: actions/checkout@v2

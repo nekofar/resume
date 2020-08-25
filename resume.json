@@ -109,6 +109,7 @@
         "url": "https://abasmanesh.com:",
         "keywords": ["WordPress", "Objective-C", "Java", "Woocommerce", "Go"],
         "highlights": [
+          "Transfer customer history and thousands of users' information from legacy software to WooCommerce.",
           "Develop and maintain more than fifty WordPress plugins.",
           "Manage, maintain and secured servers and applications for client various needs."
         ],
@@ -306,14 +307,17 @@
     "history": [
       {
         "category": "volunteer",
-        "position": "Event Organizer",
-        "organization": "Startup Weekend Tourism",
-        "start": "2015-11-01",
-        "end": "2015-11-01",
-        "url": "",
-        "summary": "Organize and formation of Startup Weekend Tourism in Esfahan.",
-        "highlights": [],
-        "keywords": [],
+        "position": "Community Organizer",
+        "organization": "Hamfekr",
+        "start": "2014-12-01",
+        "end": "2018-01-01",
+        "url": "https://hamfekr.net/",
+        "summary": "It is a weekly event and an opportunity for entrepreneurs, entrepreneurs, designers and investors who were networking, exchanging opinions and learning.",
+        "highlights": [
+          "Organize and formation of Hamfekr meetings in Esfahan for years.",
+          "Organize hundreds of weekly meetings with thousands of participants from across the province and the country."
+        ],
+        "keywords": ["Startup", "Education", "Entrepreneurship", "Networking"],
         "location": "Isfahan"
       },
       {
@@ -322,9 +326,11 @@
         "organization": "Hamnet",
         "start": "2015-09-01",
         "end": "2015-09-01",
-        "url": "",
-        "summary": "Help teams for work on their Business Model Canvas and Technical issues.",
-        "highlights": [],
+        "url": "http://hamnetevent.ir",
+        "summary": "Hemnet is a three-stage entrepreneurship event, based on the local economic and entrepreneurial conditions in each region.",
+        "highlights": [
+          "Help teams for work on their Business Model Canvas and Technical issues."
+        ],
         "keywords": ["Workshop", "Facilitator", "Mentor"],
         "location": "Isfahan"
       },
@@ -334,46 +340,12 @@
         "organization": "Startup Spark",
         "start": "2015-07-01",
         "end": "2015-08-01",
-        "url": "",
-        "summary": "Organize and formation of Startup Spark meetings in Esfahan.",
-        "highlights": [],
-        "keywords": [],
-        "location": "Isfahan"
-      },
-      {
-        "category": "volunteer",
-        "position": "Community Organizer",
-        "organization": "Hamfekr",
-        "start": "2015-06-01",
-        "end": "2018-01-01",
-        "url": "",
-        "summary": "Organize and formation of Hamfekr meetings in Esfahan.",
-        "highlights": [],
-        "keywords": [],
-        "location": "Isfahan"
-      },
-      {
-        "category": "volunteer",
-        "position": "Technical Author",
-        "organization": "Hive Web Magazine",
-        "start": "2015-01-01",
-        "end": "2016-01-01",
-        "url": "",
-        "summary": "Writing weekly about technologies and software development especially mobile development in Persian.\n",
-        "highlights": [],
-        "keywords": [],
-        "location": "Isfahan"
-      },
-      {
-        "category": "volunteer",
-        "position": "Event Organizer",
-        "organization": "Hamfekr",
-        "start": "2014-12-01",
-        "end": "2015-03-01",
-        "url": "",
-        "summary": "Help and support on organize and formation of Hamfekr meetings in Esfahan.",
-        "highlights": [],
-        "keywords": [],
+        "url": "http://startupspark.ir",
+        "summary": "Startup Spark is a startup gathering. Includes seminar on startups issues, tips on new ways of entrepreneurship. Face-to-face interview with one of the leading entrepreneurs and networkers.",
+        "highlights": [
+          "Organize and formation of Startup Spark meetings in Esfahan."
+        ],
+        "keywords": ["Startup", "Education", "Networking"],
         "location": "Isfahan"
       },
       {
@@ -383,9 +355,11 @@
         "start": "2013-11-01",
         "end": "2013-11-01",
         "url": "",
-        "summary": "Assist in executive affairs.",
-        "highlights": [],
-        "keywords": [],
+        "summary": "Startup Weekend is a 54-hour weekend event, during which groups of developers, business managers, startup enthusiasts, marketing experts, graphic artists and more pitch ideas for new startup companies, form teams around those ideas, and work to develop a working prototype, demo, or presentation by Sunday evening.",
+        "highlights": [
+          "Participation in holding and coordinating the first startup weekend in Isfahan."
+        ],
+        "keywords": ["Startup", "Entrepreneurship", "Networking", "Education"],
         "location": "Isfahan"
       }
     ]
@@ -426,9 +400,44 @@
     }
   ],
   "recognition": [],
-  "writing": [],
+  "writing": [
+    {
+      "title": "A series of articles in the field of software development",
+      "category": "article",
+      "publisher": {
+        "name": "Hive Web Magazine",
+        "url": "http://hive.ir"
+      },
+      "date": "2015",
+      "url": "",
+      "summary": "Writing weekly about technologies and software development especially mobile development in Persian"
+    },
+    {
+      "title": "Translation of articles related to the field of free software",
+      "category": "article",
+      "publisher": {
+        "name": "Salam Dnya Magazine",
+        "url": "https://www.salam-donya.ir"
+      },
+      "date": "2016",
+      "url": "",
+      "summary": "Participate in the translation of a series of articles related to the field of free and open source software from English to Persian language."
+    }
+  ],
   "reading": [],
-  "speaking": [],
+  "speaking": [
+    {
+      "title": "Freelance work, requirements, goal setting, planning",
+      "event": "Autocom",
+      "location": "Isfahan",
+      "date": "2018",
+      "highlights": [
+        "Investigate the advantages of freelancing compared to long-term employment."
+      ],
+      "keywords": ["Freelancing"],
+      "summary": "In a workshop on the sidelines of the Isfahan International Computer and Office Automation Exhibition, organized by Ponisha, I spoke about freelance and starting to work as a freelancer."
+    }
+  ],
   "governance": [],
   "languages": [
     {

@@ -45,7 +45,7 @@ jobs:
           phantomjs --version
           
       # Install WeasyPrint using pip
-      - name: Install 
+      - name: Install WeasyPrint 
         run: |
           brew install python3 cairo pango gdk-pixbuf libffi
           pip3 install WeasyPrint
@@ -58,8 +58,7 @@ jobs:
           sudo atsutil databases -remove
           atsutil server -shutdown
           atsutil server -ping
-          brew uninstall fontconfig
-          brew install fontconfig
+          fc-list
           
       # Check-out sadeh theme repo
       - uses: actions/checkout@v2

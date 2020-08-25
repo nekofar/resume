@@ -72,8 +72,8 @@ jobs:
       # Generate resume formats using HackMyResume
       - name: Generate resume formats
         run: |
-          hackmyresume build resume/resume.json to resume/readme.md -t markdown 
-          hackmyresume build resume/resume.json to resume/resume.pdf -t sadeh -o resume/.hackmyrc.json
+          hackmyresume build resume/resume.json to resume/readme.md -d -t markdown 
+          hackmyresume build resume/resume.json to resume/resume.pdf -d -t sadeh -o resume/.hackmyrc.json
 
       # Add & Commit resume changes
       - name: Add & Commit resume changes

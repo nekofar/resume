@@ -48,7 +48,7 @@ jobs:
       - name: Install Non-Free Fonts
         run: |
           sudo apt -y install ttf-mscorefonts-installer fonts-crosextra-carlito fonts-crosextra-caladea
-          sudo fc-cache -fv.
+          sudo fc-cache -fv
 
       # Check-out sadeh theme repo
       - uses: actions/checkout@v2

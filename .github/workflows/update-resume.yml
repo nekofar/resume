@@ -47,7 +47,8 @@ jobs:
       # Install Non-Free Fonts using Homebrew
       - name: Install Non-Free Fonts
         run: |
-          sudo apt -y install ttf-mscorefonts-installer
+          sudo apt -y install ttf-mscorefonts-installer fonts-crosextra-carlito fonts-crosextra-caladea
+          sudo fc-cache -fv.
 
       # Check-out sadeh theme repo
       - uses: actions/checkout@v2

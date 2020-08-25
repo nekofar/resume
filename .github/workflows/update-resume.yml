@@ -38,23 +38,24 @@ jobs:
           wkhtmltopdf --version
           wkhtmltoimage --version
 
-      # Install PhantomJS using Homebrew
+      # Install PhantomJS for PNG
       - name: Install PhantomJS
         run: |
           brew cask install phantomjs
           phantomjs --version
           
-      # Install WeasyPrint using pip
+      # Install WeasyPrint for PDF
       - name: Install WeasyPrint 
         run: |
           brew install python3 cairo pango gdk-pixbuf libffi
           pip3 install WeasyPrint
 
-      # Install Non-Free Fonts using Homebrew
+      # Install Non-Free Fonts && Font-Awesome
       - name: Install Non-Free Fonts
         run: |
           brew tap colindean/fonts-nonfree
           brew cask install font-microsoft-office
+          brew cask install font-fontawesome
           sudo atsutil databases -remove
           atsutil server -shutdown
           atsutil server -ping

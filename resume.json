@@ -371,15 +371,17 @@
       {
         "title": "Diploma",
         "institution": "Harati High School",
-        "start": "2003-01-01",
-        "end": "2004-01-01",
+        "start": "2000",
+        "end": "2004",
         "grade": "",
         "curriculum": [],
-        "summary": "",
+        "summary": "I have started learning to work with computers before high school through workshops which I always was the youngest participants.\n My connections with university students and observing the low level of my country's higher education in the field of IT at that time made me decide to leave the academic education system and continue my path through self-studying.",
         "area": "Mathematics and Physics",
         "studyType": "Diploma",
-        "url": "",
-        "keywords": [],
+        "url": "https://en.wikipedia.org/wiki/Harati_High_School",
+        "keywords": [
+          "High School"
+        ],
         "highlights": [],
         "location": "Isfahan"
       }

@@ -1,0 +1,13 @@
+{
+  "pdf": "wkhtmltopdf",
+  "sectionTitles": {
+    "employment": "Experiance",
+    "service": "Voluntarily"
+  },
+  "wkhtmltopdf": {
+    "margin-right": "0mm",
+    "margin-left": "0mm",
+    "margin-top": "20mm",
+    "margin-bottom": "20mm"
+  }
+}

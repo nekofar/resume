@@ -9,7 +9,7 @@ on:
     branches:
       - develop
   pull_request:
-    branches: 
+    branches:
       - master
   workflow_dispatch:
 
@@ -22,62 +22,77 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-        
-    # Setup Node.js environment
-    - name: Setup Node.js environment
-      uses: actions/setup-node@v1
-      
-    # Install the latest version of HackMyResume with NPM:
-    - name: Install HackMyResume with NPM
-      run: npm install hacksalot/hackmyresume#dev -g
-    
-    # Install latest version of wkhtmltopdf & wkhtmltoimage
-    # - name: Install wkhtmltopdf & wkhtmltoimage
-      # run: |
-        # brew cask install wkhtmltopdf
-        # wkhtmltopdf --version
-        # wkhtmltoimage --version
-        
-    # Install PhantomJS using Homebrew
-    - name: Install PhantomJS 
-      run: |
-        brew cask install phantomjs
-        phantomjs --version
-    
-    # Install Non-Free Fonts using Homebrew
-    - name: Install Non-Free Fonts
-      run: |
-        brew tap colindean/fonts-nonfree
-        brew cask install font-microsoft-office
-        sudo atsutil databases -remove
-        atsutil server -shutdown
-        atsutil server -ping
-  
-    # Check-out themes repo
-    - uses: actions/checkout@v2
-      with:
-        repository: nekofar/fresh-themes
-        ref: develop
-        path: fresh
-    
-    # Checks-out resume repo 
-    - uses: actions/checkout@v2
-      with:
-        lfs: true
-        path: resume
+      # Setup Node.js environment
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v1
 
-    # Generate resume formats using HackMyResume
-    - name: Generate resume formats
-      run: |
-        hackmyresume build resume/resume.json to resume/readme.md -t fresh/themes/compact-neo
-        hackmyresume build resume/resume.json to resume/resume.pdf -t fresh/themes/compact-neo -p phantom
-        
-    # Add & Commit resume changes
-    - name: Add & Commit resume changes
-      uses: EndBug/add-and-commit@v4.4.0
-      with:
-        cwd: resume
-        add: resume.pdf readme.md
-        ref: develop
-        message: Update resume files
+      # Install the latest version of HackMyResume with NPM:
+      - name: Install HackMyResume with NPM
+        run: npm install hacksalot/hackmyresume#dev -g
 
+      # Install latest version of wkhtmltopdf & wkhtmltoimage
+      - name: Install wkhtmltopdf & wkhtmltoimage
+        run: |
+          brew update
+          brew cask install wkhtmltopdf
+          wkhtmltopdf --version
+          wkhtmltoimage --version
+
+      # Install PhantomJS for PNG
+      - name: Install PhantomJS
+        run: |
+          brew cask install phantomjs
+          phantomjs --version
+          
+      # Install WeasyPrint for PDF
+      - name: Install WeasyPrint 
+        run: |
+          brew install python3 cairo pango gdk-pixbuf libffi
+          pip3 install WeasyPrint
+
+      # Install Non-Free Fonts && Font-Awesome
+      - name: Install Non-Free Fonts
+        run: |
+          brew tap colindean/fonts-nonfree
+          brew cask install font-microsoft-office
+          brew tap homebrew/cask-fonts
+          brew cask install font-fontawesome
+          sudo atsutil databases -remove
+          atsutil server -shutdown
+          atsutil server -ping
+          fc-list
+          
+      # Check-out sadeh theme repo
+      - uses: actions/checkout@v2
+        with:
+          repository: nekofar/fresh-theme-sadeh
+          ref: develop
+          path: sadeh
+
+      # Check-out markdown theme repo
+      - uses: actions/checkout@v2
+        with:
+          repository: nekofar/fresh-theme-markdown
+          ref: develop
+          path: markdown
+
+      # Checks-out resume repo
+      - uses: actions/checkout@v2
+        with:
+          lfs: true
+          path: resume
+
+      # Generate resume formats using HackMyResume
+      - name: Generate resume formats
+        run: |
+          hackmyresume build resume/resume.json to resume/readme.md -d -t markdown 
+          hackmyresume build resume/resume.json to resume/resume.pdf -d -t sadeh -o resume/.hackmyrc.json -p weasyprint
+
+      # Add & Commit resume changes
+      - name: Add & Commit resume changes
+        uses: EndBug/add-and-commit@v4.4.0
+        with:
+          cwd: resume
+          add: resume.pdf readme.md
+          ref: develop
+          message: Update resume files

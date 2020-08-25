@@ -50,6 +50,35 @@
     "history": [
       {
         "position": "Senior Software Developer",
+        "employer": "Freelancer",
+        "summary": "Finally, I decide to switch to fulltime, most of the time as a freelancer and sometimes as a contractor in the field of Web development, mostly backend and PHP. \nIn recent past years, I learned other technologies and started to work on application development for mobile, first Android, and then iOS either.",
+        "current": true,
+        "start": "2007-05-01",
+        "end": null,
+        "url": "https://milad.nekofar.com",
+        "keywords": [
+          "PHP",
+          "Python",
+          "Go",
+          "C",
+          "Ruby",
+          "Node.js",
+          "GraghQL",
+          "REST",
+          "Git",
+          "Subversion",
+          "Android",
+          "iOS"
+        ],
+        "highlights": [
+          "Working as a Freelancer is always gave me new opotionities for learning new technologies",
+          "As a freelancer, I am able to deal with a wide range of tasks in website development, website design, database design, back-end, and front-end development.",
+          "Utilized existing web technologies including WordPress, Laravel and Drupal for small businesses websites."
+        ],
+        "location": "Remote"
+      },
+      {
+        "position": "Senior Software Developer",
         "employer": "MyFlashLabs",
         "summary": "Develop and maintain Adobe AIR Native Extensions for use with iOS and Android mobile platforms. Maintain softwares backend based on WordPress REST API.",
         "current": true,
@@ -61,10 +90,13 @@
           "Java",
           "ActionScript",
           "WordPress",
-          "Flex"
+          "Flex",
+          "Gradle"
         ],
         "highlights": [
-          "Develop and maintain more than fifty AIR Native Extensions."
+          "Develop and maintain more than fifty AIR Native Extensions.",
+          "Create, develop and maintain all Objective-C and Java libraries for Extensions",
+          "Create and maintain gradle plugins to maintain release workflow automatically."
         ],
         "location": "Remote"
       },
@@ -77,7 +109,8 @@
         "url": "https://abasmanesh.com:",
         "keywords": ["WordPress", "Objective-C", "Java", "Woocommerce", "Go"],
         "highlights": [
-          "Develop and maintain more than fifty WordPress plugins."
+          "Develop and maintain more than fifty WordPress plugins.",
+          "Manage, maintain and secured servers and applications for client various needs."
         ],
         "location": "Remote"
       },
@@ -89,7 +122,9 @@
         "end": "2014-11-01",
         "url": "http://www.bugloos.nl",
         "keywords": ["PHP", "Zend", "jQuery"],
-        "highlights": [],
+        "highlights": [
+          "Collaborate on develop and maintain the front-end and back-end of a custom built web app by PHP frameworks."
+        ],
         "location": "Remote"
       },
       {
@@ -119,32 +154,6 @@
         "location": "Isfahan"
       },
       {
-        "position": "Senior Software Developer",
-        "summary": "Finally, I decide to switch to fulltime, most of the time as a freelancer and sometimes as a contractor in the field of Web development, mostly backend and PHP. \nIn recent past years, I learned other technologies and started to work on application development for mobile, first Android, and then iOS either.",
-        "current": true,
-        "start": "2007-05-01",
-        "end": null,
-        "url": "https://milad.nekofar.com",
-        "keywords": [
-          "PHP",
-          "Python",
-          "Go",
-          "C",
-          "Ruby",
-          "NodeJS",
-          "GraghQL",
-          "REST",
-          "Git",
-          "Subversion",
-          "Android",
-          "iOS"
-        ],
-        "highlights": [
-          "Working as a Freelancer is always gave me new opotionities for learning new technologies"
-        ],
-        "location": "Remote"
-      },
-      {
         "position": "Owner / Managing Director",
         "employer": "Movable Host",
         "summary": "Provide and manage dedicated servers, virtual servers and hosted services. Setup and secure dedicated and virtual servers.",
@@ -157,18 +166,21 @@
       },
       {
         "position": "Medior Software Developer",
+        "employer": "Freelancer",
         "summary": "It's been years past since I started coding. I've started with web development when I was younger as a hobby and then as a part-time freelance job.",
         "start": "2004-01-01",
         "end": "2007-05-01",
         "url": "https://milad.nekofar.com",
         "keywords": ["PHP", "CakePHP", "Zend", "Yii"],
         "highlights": [
-          "Develop tons of web sites using PHP frameworks, mustly CakePHP."
+          "Develop tons of web sites using PHP frameworks, mustly CakePHP.",
+          "This experience has not only helped me to understand the whole process of development but also taught me how to achieve great productivity."
         ],
         "location": "Remote"
       },
       {
         "position": "Junior Software Developer",
+        "employer": "Freelancer",
         "summary": "I started programming with Perl and PHP. Those years were the weblogs hype, and must of the time I was working on the design and develop wide types of blog templates. Persianblog, Blogger, Blogspot, Movable Type, WordPress.",
         "start": "2002-01-01",
         "end": "2004-01-01",
@@ -185,7 +197,15 @@
       {
         "name": "Backend",
         "level": "advanced",
-        "skills": ["Slim", "Sinatra", "REST", "GraghQL", "SOAP"]
+        "skills": [
+          "Slim",
+          "Express.js",
+          "Sinatra",
+          "REST",
+          "GraghQL",
+          "SOAP",
+          "RPC"
+        ]
       },
       {
         "name": "Frontend",
@@ -194,27 +214,50 @@
           "JavaScript",
           "CSS",
           "HTML5",
-          "SASS",
-          "LESS",
+          "Sass",
+          "Less",
           "jQuery",
-          "VueJS",
+          "Vue.js",
           "React"
         ]
       },
       {
         "name": "Mobile",
         "level": "advanced",
-        "skills": ["Java", "Objective-C", "Swift", "Kotlin", "Android", "iOS"]
+        "skills": [
+          "Java",
+          "Objective-C",
+          "Swift",
+          "Kotlin",
+          "Android",
+          "iOS",
+          "Flutter"
+        ]
       },
       {
         "name": "DevOps",
         "level": "intermediate",
-        "skills": ["Linux", "Docker", "Kubernetes", "Vagrant"]
+        "skills": [
+          "Linux",
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Vagrant",
+          "Selenium"
+        ]
       },
       {
         "name": "Database",
         "level": "advanced",
-        "skills": ["MySQL", "MariaDB", "MongoDB", "Redis"]
+        "skills": [
+          "MySQL",
+          "MariaDB",
+          "MongoDB",
+          "Redis",
+          "SQLite",
+          "MSSQL",
+          "Realm"
+        ]
       },
       {
         "name": "Games",
@@ -224,7 +267,7 @@
       {
         "name": "Projects",
         "level": "advanced",
-        "skills": ["Scrum", "Kanban"]
+        "skills": ["Agile", "Scrum", "Kanban"]
       },
       {
         "name": "Programming",
@@ -239,9 +282,7 @@
           "Perl",
           "Go",
           "Ruby",
-          "C#",
-          "TypeScript",
-          "ActionScript"
+          "TypeScript"
         ]
       }
     ],
@@ -283,7 +324,9 @@
         "end": "2015-09-01",
         "url": "",
         "summary": "Help teams for work on their Business Model Canvas and Technical issues.",
-        "highlights": []
+        "highlights": [],
+        "keywords": ["Workshop", "Facilitator", "Mentor"],
+        "location": "Isfahan"
       },
       {
         "category": "volunteer",
@@ -402,7 +445,23 @@
   "samples": [],
   "references": [],
   "testimonials": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Electronics",
+      "summary": "I have been interested in electronics since I was a teenager, but I was not very active in this field. Recently, despite microcontroller boards accessibility like Arduino and Raspberry Pi, and discussions like the Internet of Things, I became very interested in this area.",
+      "keywords": ["Arduino", "Raspberry Pi", "Cubieboard", "IoT", "Drone"]
+    },
+    {
+      "name": "3D printing",
+      "summary": "Unfortunately, I do not have a 3D printer yet, but it is one of the hobbies I am researching these days, and maybe even if I have the opportunity to make a DIY printer.",
+      "keywords": ["Prusa i3", "Tinkercad"]
+    },
+    {
+      "name": "Cryptocurrency",
+      "summary": "I have been interested in cryptocurrencies for several years, I was mostly a Hodler, but recently I did some work in the field of payment and I became more serious. Recently I worked with Solidity but not serious activity.",
+      "keywords": ["Bitcoin", "Ethereum", "Ripple", "Tron", "Solidity"]
+    }
+  ],
   "extracurricular": [],
   "affiliation": {}
 }

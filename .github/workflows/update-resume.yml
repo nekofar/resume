@@ -97,4 +97,4 @@ jobs:
           cwd: resume
           add: resume.pdf readme.md
           ref: develop
-          message: Update resume files
+          message: chore(resume): update resume files

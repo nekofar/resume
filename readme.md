@@ -19,13 +19,13 @@ Sometimes I give consultation to the startups or cooperate with them.
 ## SKILLS
 
   - Backend: Slim Express.js Sinatra REST GraghQL SOAP RPC 
-  - Frontend: JavaScript CSS HTML5 Sass Less jQuery Vue.js React 
+  - Frontend: JavaScript CSS HTML5 Sass Less Bootstrap jQuery Vue.js React 
   - Mobile: Java Objective-C Swift Kotlin Android iOS Flutter 
-  - DevOps: Linux Git Docker Kubernetes Vagrant Selenium 
+  - DevOps: Linux Apache Nginx Git Docker Kubernetes Vagrant Selenium 
   - Database: MySQL MariaDB MongoDB Redis SQLite MSSQL Realm 
   - Games: Unity Godot 
   - Projects: Agile Scrum Kanban 
-  - Programming: PHP Python Java Objective-C C Shell Perl Go Ruby TypeScript 
+  - Programming: PHP Python Java Objective-C C Shell Perl Go Ruby Node TypeScript 
 
 ## EMPLOYMENT
 

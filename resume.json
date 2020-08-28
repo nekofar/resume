@@ -217,6 +217,7 @@
           "HTML5",
           "Sass",
           "Less",
+          "Bootstrap",
           "jQuery",
           "Vue.js",
           "React"
@@ -240,6 +241,8 @@
         "level": "intermediate",
         "skills": [
           "Linux",
+          "Apache",
+          "Nginx",
           "Git",
           "Docker",
           "Kubernetes",
@@ -283,6 +286,7 @@
           "Perl",
           "Go",
           "Ruby",
+          "Node",
           "TypeScript"
         ]
       }

@@ -1,18 +1,10 @@
-# This is a basic workflow to help you get started with Actions
-
 name: CI
 
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
+# Controls when the action will run.
 on:
   push:
-    tags:
-      - v*
-    # branches:
-      # - develop
-  # pull_request:
-    # branches:
-      - master
+    branches:
+      - release/*
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -28,31 +20,17 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v1
 
-      # Install the latest version of HackMyResume 
-      - name: Install HackMyResume 
+      # Install HackMyResume
+      - name: Install HackMyResume
         run: npm install hacksalot/hackmyresume#dev -g
 
-      # Install latest version of wkhtmltopdf & wkhtmltoimage
-      # - name: Install wkhtmltopdf & wkhtmltoimage
-        # run: |
-          # brew update
-          # brew cask install wkhtmltopdf
-          # wkhtmltopdf --version
-          # wkhtmltoimage --version
-
-      # Install PhantomJS for PNG
-      # - name: Install PhantomJS
-        # run: |
-          # brew cask install phantomjs
-          # phantomjs --version
-          
-      # Install WeasyPrint for PDF
-      - name: Install WeasyPrint 
+      # Install WeasyPrint
+      - name: Install WeasyPrint
         run: |
           brew install python3 cairo pango gdk-pixbuf libffi
           pip3 install WeasyPrint
 
-      # Install Non-Free Fonts && Font-Awesome
+      # Install required fonts
       - name: Install Non-Free Fonts
         run: |
           brew tap colindean/fonts-nonfree
@@ -63,7 +41,7 @@ jobs:
           atsutil server -shutdown
           atsutil server -ping
           fc-list
-          
+
       # Check-out sadeh theme repo
       - uses: actions/checkout@v2
         with:
@@ -84,7 +62,7 @@ jobs:
           lfs: true
           path: resume
 
-      # Generate resume formats using HackMyResume
+      # Generate resume file formats
       - name: Generate resume formats
         run: |
           hackmyresume build resume/resume.json to resume/readme.md -d -t markdown 
@@ -96,5 +74,4 @@ jobs:
         with:
           cwd: resume
           add: resume.pdf readme.md
-          ref: develop
           message: "chore(resume): update resume files"

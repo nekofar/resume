@@ -34,9 +34,9 @@ jobs:
       - name: Install Non-Free Fonts
         run: |
           brew tap colindean/fonts-nonfree
-          brew cask install font-microsoft-office
+          brew install --cask font-microsoft-office
           brew tap homebrew/cask-fonts
-          brew cask install font-fontawesome
+          brew install --cask font-fontawesome
           sudo atsutil databases -remove
           atsutil server -shutdown
           atsutil server -ping

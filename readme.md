@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="mailto:milad@nekofar.com">milad@nekofar.com</a> . 
-  +98 913 594 1004 .
   <a href="https://milad.nekofar.com">milad.nekofar.com</a>
 </p>
 

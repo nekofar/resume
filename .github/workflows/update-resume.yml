@@ -70,7 +70,7 @@ jobs:
 
       # Add & Commit resume changes
       - name: Add & Commit resume changes
-        uses: EndBug/add-and-commit@v4.4.0
+        uses: EndBug/add-and-commit@v9
         with:
           cwd: resume
           add: resume.pdf readme.md

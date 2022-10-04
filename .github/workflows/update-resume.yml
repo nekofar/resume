@@ -43,21 +43,21 @@ jobs:
           fc-list
 
       # Check-out sadeh theme repo
-      - uses: actions/checkout@v3.0.2
+      - uses: actions/checkout@v3.1.0
         with:
           repository: nekofar/fresh-theme-sadeh
           ref: develop
           path: sadeh
 
       # Check-out markdown theme repo
-      - uses: actions/checkout@v3.0.2
+      - uses: actions/checkout@v3.1.0
         with:
           repository: nekofar/fresh-theme-markdown
           ref: develop
           path: markdown
 
       # Checks-out resume repo
-      - uses: actions/checkout@v3.0.2
+      - uses: actions/checkout@v3.1.0
         with:
           lfs: true
           path: resume

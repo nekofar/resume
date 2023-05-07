@@ -18,7 +18,7 @@ jobs:
     steps:
       # Setup Node.js environment
       - name: Setup Node.js environment
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3.6.0
 
       # Install HackMyResume
       - name: Install HackMyResume
@@ -43,21 +43,21 @@ jobs:
           fc-list
 
       # Check-out sadeh theme repo
-      - uses: actions/checkout@v2.3.4
+      - uses: actions/checkout@v3.5.2
         with:
           repository: nekofar/fresh-theme-sadeh
           ref: develop
           path: sadeh
 
       # Check-out markdown theme repo
-      - uses: actions/checkout@v2.3.4
+      - uses: actions/checkout@v3.5.2
         with:
           repository: nekofar/fresh-theme-markdown
           ref: develop
           path: markdown
 
       # Checks-out resume repo
-      - uses: actions/checkout@v2.3.4
+      - uses: actions/checkout@v3.5.2
         with:
           lfs: true
           path: resume
@@ -70,7 +70,7 @@ jobs:
 
       # Add & Commit resume changes
       - name: Add & Commit resume changes
-        uses: EndBug/add-and-commit@v4.4.0
+        uses: EndBug/add-and-commit@v9.1.2
         with:
           cwd: resume
           add: resume.pdf readme.md
